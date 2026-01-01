@@ -14,7 +14,7 @@ CONFIG = {
     ],
   "onedrive_folder":"/Backups/Ubuntu",
   "archive_prefix":"pi1-backup",
-  "keep_days":30
+  "keep_days":31
 }
 
 AUTHORITY = f"https://login.microsoftonline.com/{CONFIG['tenant_id']}"
